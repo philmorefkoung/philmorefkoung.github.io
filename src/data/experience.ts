@@ -10,21 +10,21 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "January 2024 - Present",
+    title: "Graduate Machine Learning Researcher",
+    company: "Topological Machine Learning Group",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
+      "Developed novel algorithms for biomedical image classification using topological data analysis.",
+    advisor: "Prof. Baris Coskunuzer",
+    companyUrl: "https://sites.google.com/view/topo-ml",
   },
   {
-    date: "Summer 2022",
-    title: "Research Intern",
-    company: "Google Research",
+    date: "December 2022 - August 2023",
+    title: "Intern",
+    company: "Blinkfire Analytics",
     description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+      "Helped train and deploy deep learning models to segment objects from videos/images and track sponsor KPIs",
+    // manager: "Elise Brown",
+    companyUrl: "https://www.blinkfire.com/landing",
   },
 ];
