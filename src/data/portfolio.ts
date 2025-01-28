@@ -16,7 +16,7 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Python", "PyTorch"],
     projectUrl: "https://github.com/philmorefkoung/TopoVita-X",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1671543331725-cf7a540817f7?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/philmorefkoung/TopoVita-X",
   },
   {
@@ -26,7 +26,7 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Python", "PyTorch", "TensorFlow"],
     projectUrl: "https://github.com/philmorefkoung/Fewshot-Topological-Machine-Learning",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1631563019676-dade0dbdb8fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/philmorefkoung/Fewshot-Topological-Machine-Learning",
   },
   {
@@ -36,7 +36,7 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Python", "PyTorch", "TensorFlow"],
     projectUrl: "https://github.com/Kausta/topo-net",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1631048008444-cd48b97b5564?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/Kausta/topo-net",
   },
   {
@@ -46,7 +46,7 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Python", "Large Language Models", "RAG"],
     projectUrl: "https://github.com/philmorefkoung/LLaMA2-chatbot-with-RAG/blob/main/Report.pdf",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1677094310919-d0361465d3be?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/philmorefkoung/LLaMA2-chatbot-with-RAG",
   },
   {
@@ -56,7 +56,7 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Python", "Web scraping"],
     projectUrl: "https://www.kaggle.com/datasets/philmorekoung11/luxury-watch-listings",
     imageUrl:
-      "https://unsplash.com/photos/black-and-silver-round-analog-watch-CO2vOhPqlrM?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1584378687113-8739c327634c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/philmorefkoung/Webscrapped-Watch-Dataset",
   },
 ];
