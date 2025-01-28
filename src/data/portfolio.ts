@@ -56,7 +56,7 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Python", "Web scraping"],
     projectUrl: "https://www.kaggle.com/datasets/philmorekoung11/luxury-watch-listings",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://unsplash.com/photos/black-and-silver-round-analog-watch-CO2vOhPqlrM?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/philmorefkoung/Webscrapped-Watch-Dataset",
   },
 ];
