@@ -21,6 +21,8 @@ export const publicationData: Publication[] = [
     paperUrl: "https://www.medrxiv.org/content/10.1101/2025.01.21.25320908v1",
     codeUrl: "https://github.com/philmorefkoung/TopoVita-X",
     tldr: "Using topological deep learning to improve classification accuracy of cytomorphological images.",
+    imageUrl:
+      "https://prnt.sc/Mv3a8tpZz-97",
   },
   {
     year: "2024",
