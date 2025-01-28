@@ -22,7 +22,7 @@ export const publicationData: Publication[] = [
     codeUrl: "https://github.com/philmorefkoung/TopoVita-X",
     tldr: "Using topological deep learning to improve classification accuracy of cytomorphological images.",
     imageUrl:
-      "https://unsplash.com/photos/a-person-holding-a-blue-balloon-in-the-air-ZZd4FJwUGHU",
+      "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     year: "2024",
@@ -34,7 +34,7 @@ export const publicationData: Publication[] = [
     //bibtex: "https://arxiv.org/abs/2409.15476.bib",
     tldr: "Augmenting deep learning models with Betti vectors to improve model robustness in medical image analysis",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1609825488888-3a766db05542?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     // award: "🏆 Best Paper Award",
     // if you have an image in public/images, you can use it like this:
     // imageUrl: "/images/publication-image.jpg"
@@ -47,5 +47,7 @@ export const publicationData: Publication[] = [
     paperUrl: "https://repositories.lib.utexas.edu/items/c8f3bc24-70ca-40b1-ae61-7b056dddadf4",
     codeUrl: "https://github.com/philmorefkoung/TopoMed-ML4H-2024",
     tldr: "Improved deep learning models' robustness in low data settings",
+    imageUrl:
+      "https://images.unsplash.com/photo-1595169359806-eee943bd8b97?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
