@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "I'm a final-year <a href='https://www.utdallas.edu/'>Master's student</a> working on improving deep learning algorithms for biomedical image analysis. My work focuses on augmenting deep learning models with topological data analysis to improve classification accuracy.",
   email: "philmore.koung@gmail.com",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1727460458279-0d0392190b1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   googleScholarUrl: "https://scholar.google.com/citations?user=H9kHnQsAAAAJ&hl=en",
   githubUsername: "philmorefkoung",
   linkedinUsername: "philmorekoung",
