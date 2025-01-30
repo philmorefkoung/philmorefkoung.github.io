@@ -14,7 +14,7 @@ export const experienceData: Experience[] = [
     title: "Graduate Machine Learning Researcher",
     company: "Topological Machine Learning Group",
     description:
-      "Developed novel algorithms for biomedical image classification using topological data analysis.",
+      "Developed novel deep learning algorithms for biomedical image classification using topological data analysis.",
     advisor: "Prof. Baris Coskunuzer",
     companyUrl: "https://sites.google.com/view/topo-ml",
   },
