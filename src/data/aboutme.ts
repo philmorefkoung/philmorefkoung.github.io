@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "University of Texas at Dallas",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.utdallas.edu/'>Master's student</a> working on improving deep learning algorithms for biomedical image analysis. My work focuses on augmenting deep learning models with topological data analysis to improve classification accuracy.",
+    "I'm a final-year <a href='https://www.utdallas.edu/'>Master's student</a> working on improving deep learning algorithms for biomedical image analysis. My work focuses on augmenting deep learning models with topological data analysis to improve classification accuracy. I'm currently looking for a full-time position as a Data Scientist, I have extensively used languages such as Python, SQL, and R and have experience using statistical methods and machine learning in my research. I have presented my work to a wide variety of audiences from Radiologists/Neuroscientists at UT Southwestern Medical Center, Research Scientists at UT Austin, industry experts from Honeywell, and my peers at UT Dallas",
   email: "philmore.koung@gmail.com",
   imageUrl:
     "https://images.unsplash.com/photo-1727460458279-0d0392190b1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
