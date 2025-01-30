@@ -12,7 +12,7 @@ export const educationData: Education[] = [
   {
     year: "2024—Present",
     institution: "University of Texas at Dallas",
-    degree: "M.Sc. in Mathematics with Concentration in Data Science)",
+    degree: "M.Sc. in Mathematics with Concentration in Data Science",
     advisor: "Prof. Baris Coskunuzer",
     thesis: "Topological Machine Learning for Medical Image Analysis"
   },
