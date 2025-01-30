@@ -43,7 +43,7 @@ export const publicationData: Publication[] = [
     year: "2024",
     conference: "TACCSTER",
     title: "Low Data Medical Imaging using Topological Machine Learning",
-    authors: "Brighton Nuwagira, Caner Korkmaz, Philmore Koung, Baris Coskunuzer",
+    authors: "Philmore Koung, Brighton Nuwagira, Caner Korkmaz, Baris Coskunuzer",
     paperUrl: "https://repositories.lib.utexas.edu/items/c8f3bc24-70ca-40b1-ae61-7b056dddadf4",
     codeUrl: "https://github.com/philmorefkoung/TopoMed-ML4H-2024",
     tldr: "Improved deep learning models' robustness in low data settings",
