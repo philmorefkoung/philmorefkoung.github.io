@@ -23,7 +23,7 @@ export const experienceData: Experience[] = [
     title: "Intern",
     company: "Blinkfire Analytics",
     description:
-      "Helped train and deploy deep learning models to segment objects from videos/images and track sponsor KPIs",
+      "Helped train and deploy deep learning models to segment and classify objects from videos/images and track sponsor KPIs",
     // manager: "Elise Brown",
     companyUrl: "https://www.blinkfire.com/landing",
   },
