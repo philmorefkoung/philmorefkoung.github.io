@@ -32,7 +32,7 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "philmorekoung",
   twitterUsername: "philmorekoung",
   blogUrl: "https://",
-  cvUrl: "https://github.com/philmorefkoung/philmorefkoung.github.io/blob/main/cv.html",
+  cvUrl: "https://docs.google.com/document/d/1WOLC7A28-GQ9DPvJYQt8-wyNbdjUzaCvVBMjW08mTYA/edit?usp=sharing",
   institutionUrl: "https://www.utdallas.edu/",
   // altName: "",
   // secretDescription: "I like dogs.",
