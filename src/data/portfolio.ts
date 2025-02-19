@@ -34,7 +34,7 @@ export const portfolioData: Portfolio[] = [
     description:
       "Developed novel augmented deep learning models for medical image analysis on 18 different datasets and over 500,000 images, achieving up to 30% increased test AUROC over baseline models",
     technologies: ["Python", "PyTorch", "TensorFlow"],
-    projectUrl: "https://github.com/Kausta/topo-net",
+    projectUrl: "https://proceedings.mlr.press/v259/nuwagira25a.html",
     imageUrl:
       "https://images.unsplash.com/photo-1631048008444-cd48b97b5564?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     codeUrl: "https://github.com/Kausta/topo-net",
