@@ -29,7 +29,7 @@ export const publicationData: Publication[] = [
     conference: "ML4H",
     title: "Topological Machine Learning for Low Data Medical Imaging",
     authors: "Brighton Nuwagira, Caner Korkmaz, Philmore Koung, Baris Coskunuzer",
-    paperUrl: "",
+    paperUrl: "https://proceedings.mlr.press/v259/nuwagira25a.html",
     codeUrl: "https://github.com/Kausta/topo-net",
     //bibtex: "https://arxiv.org/abs/2409.15476.bib",
     tldr: "Augmenting deep learning models with Betti vectors to improve model robustness in medical image analysis",
