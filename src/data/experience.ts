@@ -19,8 +19,17 @@ export const experienceData: Experience[] = [
     companyUrl: "https://sites.google.com/view/topo-ml",
   },
   {
+    date: "August 2023 - December 2023",
+    title: "Data Science Capstone",
+    company: "PriceSenz",
+    description:
+      "Developed a Talent Matchmaking Chat Bot using Llama, Retrieval Augmented Generation, and Chain-of-Thought Prompting.",
+    // manager: "Elise Brown",
+    companyUrl: "https://pricesenz.com/",
+  },
+  {
     date: "December 2022 - August 2023",
-    title: "Intern",
+    title: "Data Science Intern",
     company: "Blinkfire Analytics",
     description:
       "Helped train and deploy deep learning models to segment and classify objects from videos/images and track sponsor KPIs",
