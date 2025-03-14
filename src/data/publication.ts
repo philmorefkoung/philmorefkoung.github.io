@@ -15,7 +15,18 @@ export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
   {
     year: "2025",
-    conference: "Under Review",
+    conference: "Under Review at MICCAI",
+    title: "Topology-Enhanced Transformers for Retinal Disease Diagnosis",
+    authors: "Philmore Koung, Brighton Nuwagira, Saba Fatema, Baris Coskunuzer",
+    paperUrl: "",
+    codeUrl: "https://github.com/philmorefkoung/Topovision",
+    tldr: "Integrating Topological Data Analysis with Vision Transformers to Improve Retinal Disease Diagnosis Accuracy",
+    imageUrl:
+      "https://images.unsplash.com/photo-1615552440985-d652ebf4c199?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
+  {
+    year: "2025",
+    conference: "Under Review at MICCAI",
     title: "Diagnosing Blood Diseases and Disorders with Topological Deep Learning",
     authors: "Philmore F. Koung, Saba Fatema, Nagehan Pakasticali, Hung S. Luu, Baris Coskunuzer",
     paperUrl: "https://www.medrxiv.org/content/10.1101/2025.01.21.25320908v1",
