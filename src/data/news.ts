@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   // If you don't want to show news, just make the array empty.
+    {
+    date: "March 2025",
+    title: "Research accepted at ASA North Texas Chapter Meeting in Spring 2025",
+    description: "Our work on topological machine learning for computer aided diagnosis has been accepted by ASA North Texas Chapter Meeting in Spring 2025 / DFW Data Science and Statistics Day",
+    link: "https://www.amstat-nt.org/events/poster-competition",
+  },
   {
     date: "February 2025",
     title: "Research accepted at SIAM CSE 2025",
