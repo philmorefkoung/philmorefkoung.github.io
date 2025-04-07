@@ -30,7 +30,7 @@ export const aboutMe: AboutMe = {
   googleScholarUrl: "https://scholar.google.com/citations?user=H9kHnQsAAAAJ&hl=en",
   githubUsername: "philmorefkoung",
   linkedinUsername: "philmorekoung",
-  twitterUsername: "philmorekoung",
+  //twitterUsername: "philmorekoung",
   blogUrl: "https://",
   cvUrl: "https://drive.google.com/file/d/1lhuC0OdJrKe1lk5QXuQTZ1LqXiwbxrdY/view?usp=sharing",
   institutionUrl: "https://www.utdallas.edu/",
