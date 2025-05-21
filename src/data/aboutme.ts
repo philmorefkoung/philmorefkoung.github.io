@@ -22,7 +22,7 @@ export const aboutMe: AboutMe = {
   title: "Incoming Ph.D. Student",
   institution: "UT Southwestern",
   // Note that links work in the description
-  description: "I'm an incoming Ph.D. student at UT Southwestern's Heath Data Science Program. I previously did my MS/BS at UT Dallas where I was fortunate to be supervised by <a href='https://personal.utdallas.edu/~coskunuz/'>Prof. Baris Coskunuzer</a>. <br /><br /> My research interests lie in the intersection of computer vision techniques, machine learning algorithms, medical image analysis, and topological deep learning. <br /><br /> In my free time I enjoy playing video games and travelling. Some games I was top rated in are: League of Legends (Grandmaster / 0.01% peak), Counter-Strike (FACEIT Level 10 / Top 1000 North America), and Hearthstone (Rank 1 Peak / 0.003%).",
+  description: "I'm an incoming Ph.D. student at UT Southwestern's Heath Data Science Program. I previously did my MS/BS at UT Dallas where I was fortunate to be supervised by <a href='https://personal.utdallas.edu/~coskunuz/'>Prof. Baris Coskunuzer</a>. <br /><br /> My research interests lie in the intersection of computer vision techniques, machine learning algorithms, medical image analysis, and topological deep learning. <br /><br /> In my free time I enjoy playing video games and travelling. Some games I was top rated in are: League of Legends (Grandmaster), Counter-Strike (FACEIT Level 10), and Hearthstone (Rank 1).",
   email: "philmore.koung@UTSouthwestern.edu",
   imageUrl:
     "https://images.unsplash.com/photo-1727460458279-0d0392190b1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
