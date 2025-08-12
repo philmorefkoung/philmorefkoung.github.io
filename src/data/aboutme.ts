@@ -19,8 +19,8 @@ export interface AboutMe {
 
 export const aboutMe: AboutMe = {
   name: "Philmore Koung",
-  title: "Incoming Ph.D. Student",
-  institution: "UT Southwestern",
+  title: "Ph.D. Student",
+  institution: "UT Southwestern Medical Center",
   // Note that links work in the description
   description: "I'm an incoming Ph.D. student at UT Southwestern's Heath Data Science Program. I previously did my MS/BS at UT Dallas where I was fortunate to be supervised by <a href='https://personal.utdallas.edu/~coskunuz/'>Prof. Baris Coskunuzer</a>. <br /><br /> My research interests lie in the intersection of computer vision techniques, machine learning algorithms, medical image analysis, and topological deep learning. <br /><br /> In my free time I enjoy playing video games and travelling. Some games I was top rated in are: League of Legends (Grandmaster), Counter-Strike (FACEIT Level 10), and Hearthstone (Rank 1).",
   email: "philmore.koung@utsouthwestern.edu",
