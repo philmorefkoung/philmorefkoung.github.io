@@ -30,7 +30,7 @@ export const publicationData: Publication[] = [
     title: "Topology-Aware Deep Models for Skin Lesion Classification",
     authors: "Sayoni Chakraborty, Philmore Koung, and Baris Coskunuzer",
     paperUrl: "",
-    codeUrl: "https://github.com/philmorefkoung/Topovision",
+    codeUrl: "https://github.com/philmorefkoung/TopoDerma",
     tldr: "Combining Topological Deep Learning Embeddings with Vision Transformers to Improve Skin Cancer Detection",
     imageUrl:
       "https://images.unsplash.com/photo-1615552440985-d652ebf4c199?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
