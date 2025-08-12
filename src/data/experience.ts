@@ -10,7 +10,15 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "January 2024 - Present",
+    date: "August 2025 - Present",
+    title: "Graduate Teaching Assistant",
+    company: "UT Southwestern Medical Center",
+    description:
+      "Fall 25 - QDS 5401 - Introduction to Biostatistics and Programming",
+    companyUrl: "https://osph.utsouthwestern.edu/",
+  },
+  {
+    date: "January 2024 - August 2025",
     title: "Graduate Machine Learning Researcher",
     company: "Topological Machine Learning Group",
     description:
