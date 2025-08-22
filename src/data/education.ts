@@ -18,14 +18,14 @@ export const educationData: Education[] = [
   },
   {
     year: "2024—2025",
-    institution: "University of Texas at Dallas",
+    institution: "The University of Texas at Dallas",
     degree: "M.S. in Mathematics with Concentration in Data Science",
     advisor: "Prof. Baris Coskunuzer",
     thesis: "Topological Machine Learning for Medical Image Analysis"
   },
   {
     year: "2019—2023",
-    institution: "University of Texas at Dallas",
+    institution: "The University of Texas at Dallas",
     degree: "B.S. in Data Science",
     // thesis: "Algorithmic Approaches to Causal Discovery",
     // Optional links to thesis
