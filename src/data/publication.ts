@@ -26,7 +26,7 @@ export const publicationData: Publication[] = [
   },
   {
     year: "2025",
-    conference: "MICCAI ISIC (oral)",
+    conference: "MICCAI ISIC (Oral)",
     title: "Topology-Aware Deep Models for Skin Lesion Classification",
     authors: "Sayoni Chakraborty, Philmore Koung, and Baris Coskunuzer",
     paperUrl: "",
@@ -37,7 +37,7 @@ export const publicationData: Publication[] = [
   },
   {
     year: "2025",
-    conference: "MICCAI MLMI (oral)",
+    conference: "MICCAI MLMI (Oral)",
     title: "Diagnosing Blood Diseases and Disorders with Topological Deep Learning",
     authors: "Philmore F. Koung, Saba Fatema, Nagehan Pakasticali, Hung S. Luu, Baris Coskunuzer",
     paperUrl: "https://www.medrxiv.org/content/10.1101/2025.01.21.25320908v1",
