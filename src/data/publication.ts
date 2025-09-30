@@ -34,6 +34,7 @@ export const publicationData: Publication[] = [
     tldr: "Combining Topological Deep Learning Embeddings with Vision Transformers to Improve Skin Cancer Detection",
     imageUrl:
       "https://images.unsplash.com/photo-1700929259310-10a0ba52de68?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    award: "🏆 Honorable Mention Award",
   },
   {
     year: "2025",
