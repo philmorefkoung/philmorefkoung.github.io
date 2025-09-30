@@ -31,7 +31,7 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "philmorekoung",
   //twitterUsername: "philmorekoung",
   //blogUrl: "https://",
-  cvUrl: "https://drive.google.com/file/d/10KlU_gjPK2lfU0QeXYXmlrnMhwbniv5w/view?usp=sharing",
+  cvUrl: "https://drive.google.com/file/d/1OYoPf232YR1xHmWZIBV2cD-49SB5kpar/view?usp=drive_link",
   institutionUrl: "https://osph.utsouthwestern.edu/",
   // altName: "",
   // secretDescription: "I like dogs.",
