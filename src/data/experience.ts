@@ -9,6 +9,15 @@ export interface Experience {
 }
 
 export const experienceData: Experience[] = [
+    {
+    date: "August 2025 - Present",
+    title: "Graduate Research Assistant",
+    company: "UT Southwestern Medical Center",
+    description:
+      "Working on silva pattern classification and tumor cell detection, segmentation, and classification",
+    advisor: "Prof. Guanghua Xiao",
+    companyUrl: "https://qbrc.swmed.edu/labs/xiaolab/",
+  },
   {
     date: "August 2025 - Present",
     title: "Graduate Teaching Assistant",
