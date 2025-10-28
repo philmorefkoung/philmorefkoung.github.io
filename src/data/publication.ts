@@ -13,6 +13,28 @@ export interface Publication {
 
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
+    {
+    year: "2025",
+    conference: "ML4H",
+    title: "TopoCAM: ROI-Driven Topological Signatures in 3D Medical Imaging",
+    authors: "Brighton Nuwagira, Philmore Koung, Baris Coskunuzer",
+    paperUrl: "",
+    codeUrl: "",
+    tldr: "GradCAM + TDA for 3D Medical Image Classification",
+    imageUrl:
+      "https://images.unsplash.com/photo-1519954352454-2d5a7353e277?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1974",
+  },
+    {
+    year: "2025",
+    conference: "ML4H",
+    title: "Topoformer: Topology-Infused Transformers for Medical Imaging",
+    authors: "Sayoni Chakraborty, Philmore Koung, Baris Coskunuzer",
+    paperUrl: "",
+    codeUrl: "https://github.com/philmorefkoung/Topoformer",
+    tldr: "New Filtration Method for calculating Betti 0 and 1 numbers, Topological Supervised Contrastive Learning, 3D Medical Image Classification",
+    imageUrl:
+      "https://images.unsplash.com/photo-1519954352454-2d5a7353e277?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1974",
+  },
   {
     year: "2025",
     conference: "Under Revision",
