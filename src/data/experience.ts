@@ -28,7 +28,7 @@ export const experienceData: Experience[] = [
   },
   {
     date: "January 2024 - August 2025",
-    title: "Graduate Machine Learning Researcher",
+    title: "Graduate Researcher",
     company: "Topological Machine Learning Group",
     description:
       "Developed novel deep learning algorithms for biomedical image classification using topological data analysis.",
@@ -46,7 +46,7 @@ export const experienceData: Experience[] = [
   },
   {
     date: "December 2022 - August 2023",
-    title: "Data Science Intern",
+    title: "Intern",
     company: "Blinkfire Analytics",
     description:
       "Helped train and deploy deep learning models to segment and classify objects from videos/images and track sponsor KPIs",
